@@ -1,9 +1,9 @@
 # Resume
 
-##Education Detail:
+## Education Detail:
 
 BSSE -------> UAF
 
-##Contact:
+## Contact:
 
 umerali7454@gmail.com
